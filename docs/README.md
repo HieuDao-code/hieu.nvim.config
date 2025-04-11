@@ -18,10 +18,10 @@ sudo apt install make gcc ripgrep unzip git xclip neovim
 ```
 
 </details>
-1. Clone this Git repository by replacing `<REPO>` with `<your_github_username>` in the commands below (Linux and Mac):
+1. Clone this Git repository by running the command below (Linux and Mac):
 
 ```sh
-git clone https://github.com/<REPO>/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/HieuDao-code/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 ## Plugins
