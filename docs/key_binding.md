@@ -185,6 +185,8 @@ Move selection in visual mode or current line
 
 #### <abbr title="vim-fugitive">Fugitive</abbr>
 
+- `:G` or `<leader>g` open git summary window
+
 ## Miscellaneous
 
 #### <abbr title="obsidian.nvim">Obsidian</abbr>

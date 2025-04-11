@@ -46,3 +46,6 @@ vim.keymap.set('n', '<C-u>', '<C-u>zz')
 
 -- Smart Paste without losing clipboard
 vim.keymap.set('x', '<leader>p', [["_dP]])
+
+-- Open Fugitive easier
+vim.keymap.set('n', '<leader>g', '<CMD>G<CR>', { desc = 'Open [G]it Fugitive' })
